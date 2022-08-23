@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="ejercicio08.TarjetaDeCredito"/>
+    <fullyQualifiedTypeName name="ejercicio09.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="ejercicio09.Domicilio"/>
+    <fullyQualifiedTypeName name="ejercicio09.Persona"/>
+    <fullyQualifiedTypeName name="ejercicio09.TipoCuenta"/>
+    <fullyQualifiedTypeName name="ejercicio01.Agenda"/>
+    <fullyQualifiedTypeName name="ejercicio01.Domicilio"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="ejercicio03.Inmobiliaria"/>
+    <fullyQualifiedTypeName name="ejercicio03.Barrio"/>
+    <fullyQualifiedTypeName name="parcial_2.clases.ResultadoOperacion"/>
+    <fullyQualifiedTypeName name="parcial_2.clases.PropuestaReunion"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

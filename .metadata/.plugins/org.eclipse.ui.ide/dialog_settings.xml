@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\lucas\Downloads\autobus.zip"/>
+			<item value="C:\Users\lucas\Downloads\Ejercicio05.zip"/>
+			<item value="C:\Users\lucas\Downloads\thp_tp3.zip"/>
+			<item value="C:\Users\lucas\Downloads\Ejercicios13y14.zip"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\Eclipse\YA_THP_REBASA_LUCAS"/>
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\lucas\Downloads\THP-SIM2-YA-11E-ROL-Damian.zip"/>
+			<item value="C:\Users\lucas\Downloads\2022C1_THP_P2_A_COMPLETAR.zip"/>
+			<item value="C:\Users\lucas\Downloads\colegio.zip"/>
+			<item value="C:\Users\lucas\Downloads\YA_THPE_FPE_REBASA_LUCAS.zip"/>
+		</list>
+	</section>
+</section>

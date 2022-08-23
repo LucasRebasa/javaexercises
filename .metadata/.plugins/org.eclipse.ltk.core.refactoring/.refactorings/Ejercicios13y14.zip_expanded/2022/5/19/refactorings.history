@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;SegundoParcial/src&apos;&#x0D;&#x0A;- Original project: &apos;Ejercicios13y14.zip_expanded&apos;&#x0D;&#x0A;- Destination element: &apos;SegundoParcial/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Ejercicios13y14.zip_expanded/EjerciciosParcial/src/ejercicio14&#x0D;&#x0A;     Ejercicios13y14.zip_expanded/EjerciciosParcial/src/ejercicio13" description="Copy packages" destination="=SegundoParcial/src" element1="/EjerciciosParcial\/src&lt;ejercicio14" element2="/EjerciciosParcial\/src&lt;ejercicio13" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1651716613883" version="1.0"/>
+</session>
